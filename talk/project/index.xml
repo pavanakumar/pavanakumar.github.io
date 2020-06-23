@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mohanamuraly</title>
+    <link>http://pavanakumar.github.io/project/</link>
+    <description>Recent content in Projects on Mohanamuraly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavanakumar Mohanamuraly, 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pavanakumar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Element-free solver and tools</title>
+      <link>http://pavanakumar.github.io/project/gf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/project/gf/</guid>
+      <description>Library and tools for element-free or meshless solvers</description>
+    </item>
+    
+    <item>
+      <title>OpenFUSE library and tools</title>
+      <link>http://pavanakumar.github.io/project/fuse/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/project/fuse/</guid>
+      <description>Framework for Unstructred Mesh Solvers: Mesh data-base, partitioner, and load balancer</description>
+    </item>
+    
+    <item>
+      <title>compressibleFOAM solver</title>
+      <link>http://pavanakumar.github.io/project/cfoam/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/project/cfoam/</guid>
+      <description>OpenFOAM based compressible flow solver using Riemann flux reconstruction</description>
+    </item>
+    
+  </channel>
+</rss>

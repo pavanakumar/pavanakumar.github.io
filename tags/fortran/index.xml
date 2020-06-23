@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FORTRAN on Mohanamuraly</title>
+    <link>http://pavanakumar.github.io/tags/fortran/</link>
+    <description>Recent content in FORTRAN on Mohanamuraly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavanakumar Mohanamuraly, 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pavanakumar.github.io/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Element-free solver and tools</title>
+      <link>http://pavanakumar.github.io/project/gf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/project/gf/</guid>
+      <description>Library and tools for element-free or meshless solvers</description>
+    </item>
+    
+  </channel>
+</rss>

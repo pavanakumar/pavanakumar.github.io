@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Mohanamuraly</title>
+    <link>http://pavanakumar.github.io/publication/</link>
+    <description>Recent content in Publications on Mohanamuraly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavanakumar Mohanamuraly, 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pavanakumar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A meshless optimised mesh-smoothing framework</title>
+      <link>http://pavanakumar.github.io/publication/mesh_opti/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/publication/mesh_opti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Parallelisation of an Algorithmically Differentiated Adjoint Solver</title>
+      <link>http://pavanakumar.github.io/publication/hybrid_ad/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/publication/hybrid_ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the space-filling curves for storage, reordering and partitioning mesh based data in scientific computing</title>
+      <link>http://pavanakumar.github.io/publication/sfc/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/publication/sfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on Robustness of least-squares approximation in finite point method for transonic flows</title>
+      <link>http://pavanakumar.github.io/publication/aesi/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/publication/aesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling free-stream turbulence based on wind tunnel and flight data for instability studies</title>
+      <link>http://pavanakumar.github.io/publication/fst/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/publication/fst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store Separation Dynamics using Grid-free Euler Solver</title>
+      <link>http://pavanakumar.github.io/publication/store/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://pavanakumar.github.io/publication/store/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

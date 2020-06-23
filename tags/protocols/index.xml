@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>protocols on Mohanamuraly</title>
+    <link>http://pavanakumar.github.io/tags/protocols/</link>
+    <description>Recent content in protocols on Mohanamuraly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavanakumar Mohanamuraly, 2019</copyright>
+    <lastBuildDate>Fri, 14 Jun 2019 15:19:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://pavanakumar.github.io/tags/protocols/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MPI Protocols</title>
+      <link>http://pavanakumar.github.io/post/mpi-protocols/</link>
+      <pubDate>Fri, 14 Jun 2019 15:19:35 +0200</pubDate>
+      
+      <guid>http://pavanakumar.github.io/post/mpi-protocols/</guid>
+      <description>The MPI has some protocol jargon that I have not heard so far. They are the following:
+ Aggressive eager Rendezvous with send push Rendezvous with receiver pull Rendezvous blocking (push or pull)  They are defined in the slides from MPI group on MPI performance. I got some good info on this from these slides and this, which I will reproduce here with my own additions and notes.</description>
+    </item>
+    
+  </channel>
+</rss>

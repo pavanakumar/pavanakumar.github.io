@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mohanamuraly</title>
+    <link>http://pavanakumar.github.io/post/</link>
+    <description>Recent content in Posts on Mohanamuraly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pavanakumar Mohanamuraly, 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="http://pavanakumar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MPI Protocols</title>
+      <link>http://pavanakumar.github.io/post/mpi-protocols/</link>
+      <pubDate>Fri, 14 Jun 2019 15:19:35 +0200</pubDate>
+      
+      <guid>http://pavanakumar.github.io/post/mpi-protocols/</guid>
+      <description>The MPI has some protocol jargon that I have not heard so far. They are the following:
+ Aggressive eager Rendezvous with send push Rendezvous with receiver pull Rendezvous blocking (push or pull)  They are defined in the slides from MPI group on MPI performance. I got some good info on this from these slides and this, which I will reproduce here with my own additions and notes.</description>
+    </item>
+    
+    <item>
+      <title>Wrapping Fortran Derived Types : Part 2</title>
+      <link>http://pavanakumar.github.io/post/fortran-types-2/</link>
+      <pubDate>Fri, 24 May 2019 16:08:09 +0200</pubDate>
+      
+      <guid>http://pavanakumar.github.io/post/fortran-types-2/</guid>
+      <description>In a previous post wrapping user-defined types in Fortran into C was explained using the opaque object hack. The hack was improved by adding portable size detection and direct access to array memory using pointer handles. For compilers that do not yet support STORAGE_SIZE intrinsic function an alternative route is suggested in this post. Again the approach is based on the one by Pletzer et. al., &amp;ldquo;Exposing Fortran derived types to C and other languages&amp;rdquo;, 2008 but modified and improved to increase portability and safety.</description>
+    </item>
+    
+    <item>
+      <title>Wrapping Fortran Derived Types : Part 1</title>
+      <link>http://pavanakumar.github.io/post/fortran-types/</link>
+      <pubDate>Thu, 23 May 2019 00:53:26 +0200</pubDate>
+      
+      <guid>http://pavanakumar.github.io/post/fortran-types/</guid>
+      <description>Abstract Fortran C/C++/Python interoperability is an important consideration while designing scientific HPC codes. Fortran to a large extent still dominates in terms of lines of code in scientific software due to its legacy, reliable mathematical libraries and many years of research into the design of its compilers. Therefore it becomes mandatory to support an array of codes and libraries developed in mixed languages say Fortran, C and C++. It is counter productive to rewrite the codes and revalidate just for the sake of using a single monolithic language.</description>
+    </item>
+    
+  </channel>
+</rss>
